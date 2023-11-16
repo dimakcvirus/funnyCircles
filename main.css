@@ -1,0 +1,11 @@
+.blokc{
+    width: 500px;
+    height: 500px;
+    border: solid 1px;
+    margin: auto;
+}
+.cyrcle{
+    background-color: red;
+    width: 10px;
+    height: 10px;
+}
