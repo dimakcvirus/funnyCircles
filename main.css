@@ -1,16 +1,11 @@
-.blokc{
-    width: 500px;
-    height: 500px;
+.block {
     border: solid 1px;
     margin: auto;
-   
+    /* position: relative; */
 }
-.cyrcle{
+.cyrcle {
     background-color: red;
-    width: 50px;
-    height: 50px;
     position: absolute;
     border-radius: 100%;
-
 }
 
